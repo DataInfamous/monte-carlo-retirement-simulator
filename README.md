@@ -59,7 +59,7 @@ The simulation estimates the probability of reaching:
 
 The full interactive dashboard is available here:
 
-https://datainfamous.gumroad.com/l/qelavr
+[https://datainfamous.gumroad.com/l/qelavr](https://retirecast.netlify.app/)
 
 The dashboard runs locally as a **single HTML file** and allows users to explore different retirement scenarios.
 
