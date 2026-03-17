@@ -56,9 +56,7 @@ The simulation estimates the probability of reaching:
 ---
 
 
-## 🚀 Live Application
 
-https://retirecast.netlify.app/
 
 
 The dashboard runs locally as a **single HTML file** and allows users to explore different retirement scenarios.
